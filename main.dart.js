@@ -59101,7 +59101,7 @@ if(b?r.B(s,a):r.u(s,a))this.ag()}}
 A.Kz.prototype={}
 A.BD.prototype={
 T(a){var s=null
-return new A.pZ(new A.ov(new A.UX(),s,s,A.asm(),A.arj(),t.xc),s,s,new A.rP(new A.t0(s),"Namer App",A.a8R(s,A.aaO(B.M,s,s,B.xp),!0),s),s,t.wt)}}
+return new A.pZ(new A.ov(new A.UX(),s,s,A.asm(),A.arj(),t.xc),s,s,new A.rP(new A.t0(s),"72954-Generador De Nombres",A.a8R(s,A.aaO(B.M,s,s,B.xp),!0),s),s,t.wt)}}
 A.UX.prototype={
 $1(a){return new A.i4(A.adL(),A.d([],t.pl),$.aA())},
 $S:384}
